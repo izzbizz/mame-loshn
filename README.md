@@ -1,4 +1,4 @@
-# mame-loyshn מאמע-לשון
+# mame-loshn מאמע-לשון
 
 developing a system that can back-transliterate romanized yiddish to the alef-beys
 
