@@ -14,22 +14,26 @@ so far we have parallel data:
 
 [link to dropbox repository](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F/dataYiddish)
 
-## literature
-
-### yiddish multi-orthographies
-
-- steven a. jacobson: a guide to the more common hebraic words in yiddish [link](https://www.yiddishbookcenter.org/collections/yiddish-books/spb-nybc203464/jacobson-steven-a-a-guide-to-the-more-common-hebraic-words-in-yiddish)
-
-### yiddish nlp
-
-- jonne sälevä: a multi-orthography parallel corpus of yiddish nouns [link](https://www.aclweb.org/anthology/2020.lrec-1.119/) 
-- dmitriy genzel et al: creating a high-quality machine translation system for a low-resource
-language: yiddish [link](https://research.google/pubs/pub35627/)
-
-### yiddish resources on the internet
+## yiddish resources on the internet
 
 - refoyls yidish veb-bletl [link](https://www.cs.uky.edu/~raphael/yiddish.html)
 - the yiddish book center's steven spielberg digital yiddish library [link](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
+- library of congress romanization rules [link](https://www.loc.gov/catdir/cpso/romanization/hebrew.pdf)
+- [וויקיפעדיע](https://yi.wikipedia.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98) (yiddish wikipedia)
+
+## literature
+
+### yiddish orthographies
+
+- bella hass weinberg: *ambiguities in the romanization of yiddish* [link](https://ajlpublishing.org/index.php/jl/article/download/163/153/)
+- steven a. jacobson: *a guide to the more common hebraic words in yiddish* [link](https://www.yiddishbookcenter.org/collections/yiddish-books/spb-nybc203464/jacobson-steven-a-a-guide-to-the-more-common-hebraic-words-in-yiddish)
+- tsuguya sasaki (tsvi sadan): *a morphological study of the hebrew-aramaic component in yiddish*
+- tsuguya sasaki (tsvi sadan): *the hebrew component in yiddish: research possibilities* (both available on the author's [website](https://sites.google.com/view/tsvisadan/research/publications))
+
+### yiddish nlp
+
+- dmitriy genzel et al: *creating a high-quality machine translation system for a low-resource language: yiddish* [link](https://research.google/pubs/pub35627/)
+- jonne sälevä: *a multi-orthography parallel corpus of yiddish nouns* [link](https://www.aclweb.org/anthology/2020.lrec-1.119/) 
 
 ### neural machine transliteration (nmtr)
 
