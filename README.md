@@ -34,7 +34,6 @@ language: yiddish [link](https://research.google/pubs/pub35627/)
 ### neural machine transliteration (nmtr)
 
 - mohamed seghir hadj ameur et al: *arabic machine transliteration using an attention-based encoder-decoder model* [link](https://www.researchgate.net/publication/320972105_Arabic_Machine_Transliteration_using_an_Attention-based_Encoder-decoder_Model)
-- christos baziotis et al: *language model prior for low-resource neural machine translation* [link](https://arxiv.org/abs/2004.14928)
 - thomas deselaers et al: *a deep learning approach to machine transliteration* [link](https://dl.acm.org/doi/10.5555/1626431.1626476)
 - andrew finch et al: *target-bidirectional neural models for machine transliteration* [link](https://www.aclweb.org/anthology/W16-2711/)
 - imane guellil et al: *arabizi transliteration of algerian arabic dialect into modern standard arabic* [link](https://www.researchgate.net/publication/318755390_Arabizi_transliteration_of_Algerian_Arabic_dialect_into_Modern_Standard_Arabic)
@@ -52,3 +51,7 @@ language: yiddish [link](https://research.google/pubs/pub35627/)
 - shyam upadhyay et al: *bootstrapping transliteration with constrained discovery for low-resource languages* [link](https://www.aclweb.org/anthology/D18-1046/)
 - shijie wu et al: *applying the transformer to character-level transduction* [link](https://arxiv.org/abs/2005.10213)
 - kaisheng yao, geoffrey zweig: *sequence-to-sequence neural net models for grapheme-to-phoneme conversion* [link](https://arxiv.org/abs/1506.00196)
+
+### other interesting research on transl(iter)ation
+
+- christos baziotis et al: *language model prior for low-resource neural machine translation* [link](https://arxiv.org/abs/2004.14928)
