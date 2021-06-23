@@ -4,7 +4,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 ## data
 
-so far we have parallel data:
+#### so far we have parallel data:
 
 - ~7000 records from brandeis university
 - ~8000 records from the national library in israel
@@ -12,7 +12,11 @@ so far we have parallel data:
 - ~1300 names from wikidata
 - ~2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
 
-[link to dropbox repository](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F/dataYiddish)
+#### monololingual data (for pre-training a language model):
+
+- ~28,000 articles from the yiddish wikipedia
+
+[link to dropbox folder](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F/dataYiddish)
 
 ## yiddish resources on the internet
 
