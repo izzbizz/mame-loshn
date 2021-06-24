@@ -12,6 +12,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 - 1300 names from wikidata
 - 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
 - 300 proverbs from [yiddish wit](https://www.yiddishwit.com/List.html)
+- 2400 words from [yidlid](http://yidlid.org/), a page with lyrics for yiddish songs
 
 #### monololingual data (for pre-training a language model):
 
