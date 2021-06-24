@@ -20,7 +20,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 [link to dropbox folder](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F)
 
-## yiddish resources on the internet
+## more yiddish resources on the internet
 
 - refoyls yidish veb-bletl [link](https://www.cs.uky.edu/~raphael/yiddish.html)
 - the yiddish book center's steven spielberg digital yiddish library [link](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
