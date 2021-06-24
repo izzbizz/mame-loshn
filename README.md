@@ -6,15 +6,16 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 #### so far we have parallel data:
 
-- ~7000 records from brandeis university
-- ~8000 records from the national library in israel
+- 7000 records from brandeis university
+- 8000 records from the national library in israel
 - parallel translation and transliteration of "le petit prince" to yiddish, courtesy of the translator shlomo lerman [דער קליינער פרינץ](http://www.petit-prince.at/pp-jidd.htm)
-- ~1300 names from wikidata
-- ~2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
+- 1300 names from wikidata
+- 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
+- 300 proverbs from [yiddish wit](https://www.yiddishwit.com/List.html)
 
 #### monololingual data (for pre-training a language model):
 
-- ~28,000 articles from the yiddish wikipedia
+- 28,000 articles from the [yiddish wikipedia](https://yi.wikipedia.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98)
 
 [link to dropbox folder](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F)
 
@@ -23,7 +24,6 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 - refoyls yidish veb-bletl [link](https://www.cs.uky.edu/~raphael/yiddish.html)
 - the yiddish book center's steven spielberg digital yiddish library [link](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
 - library of congress romanization rules [link](https://www.loc.gov/catdir/cpso/romanization/hebrew.pdf)
-- [וויקיפעדיע](https://yi.wikipedia.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98) (yiddish wikipedia)
 
 ## literature
 
