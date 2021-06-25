@@ -8,6 +8,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 - 7000 records from brandeis university
 - 8000 records from the national library in israel
+- 1500 records from the hessisches bibliotheksinformationssystem [hebis](https://www.hebis.de/)
 - parallel translation and transliteration of "le petit prince" to yiddish, courtesy of the translator shlomo lerman [דער קליינער פרינץ](http://www.petit-prince.at/pp-jidd.htm)
 - 1300 names from wikidata
 - 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
