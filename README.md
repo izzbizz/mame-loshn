@@ -25,6 +25,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 - refoyls yidish veb-bletl [link](https://www.cs.uky.edu/~raphael/yiddish.html)
 - the yiddish book center's steven spielberg digital yiddish library [link](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
 - library of congress romanization rules [link](https://www.loc.gov/catdir/cpso/romanization/hebrew.pdf)
+- list of words of hebrew (לשה"ק) origin [link](https://yi.wikipedia.org/wiki/%D7%9C%D7%99%D7%A1%D7%98%D7%A2_%D7%A4%D7%95%D7%9F_%D7%9C%D7%A9%D7%95%D7%9F-%D7%A7%D7%95%D7%93%D7%A9_%D7%95%D7%95%D7%A2%D7%A8%D7%98%D7%A2%D7%A8_%D7%90%D7%99%D7%9F_%D7%99%D7%99%D7%93%D7%99%D7%A9)
 
 ## literature
 
