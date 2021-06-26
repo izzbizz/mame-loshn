@@ -6,7 +6,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 #### so far we have parallel data:
 
-- 11.000 records (titles and author names) scraped from the [digital yiddish library](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
+- 11.000 records (titles and author names) scraped from the yiddish book center's [digital yiddish library](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
 - 8.000 records provided by the israeli [national library](https://www.nli.org.il)
 - 7.000 records provided by the [brandeis university library](https://www.brandeis.edu/library/)
 - 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
