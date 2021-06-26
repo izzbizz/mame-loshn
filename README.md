@@ -40,8 +40,8 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 ### yiddish nlp
 
-- dmitriy genzel et al: *creating a high-quality machine translation system for a low-resource language: yiddish* [link](https://research.google/pubs/pub35627/)
-- jonne sälevä: *a multi-orthography parallel corpus of yiddish nouns* [link](https://www.aclweb.org/anthology/2020.lrec-1.119/) 
+- dmitriy genzel et al: *creating a high-quality machine translation system for a low-resource language: yiddish* [link](https://research.google/pubs/pub35627/) [excerpt](excerpts/genzel-macherey-uszkoreit-2009)
+- jonne sälevä: *a multi-orthography parallel corpus of yiddish nouns* [link](https://www.aclweb.org/anthology/2020.lrec-1.119/) [excerpt](excerpts/sälevä-2020)
 
 ### neural machine transliteration (nmtr)
 
@@ -55,7 +55,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 - ngoc tan le, fatiha sadat: *low-resource machine transliteration using recurrent neural networks of asian languages* [link](https://www.aclweb.org/anthology/W18-2414/)
 - ngoc tan le, fatiha sadat et al: *low-resource machine transliteration using recurrent neural networks* [link](https://dl.acm.org/doi/abs/10.1145/3265752)
 - ngoc tan le, fatiha sadat: *improving the neural network-based machine transliteration for low-resourced language pair* [link](https://www.aclweb.org/anthology/Y18-1038/)
-- yuval merhav, stephen ash: *design challenges in named entity transliteration* [link](https://www.aclweb.org/anthology/C18-1053/)
+- yuval merhav, stephen ash: *design challenges in named entity transliteration* [link](https://www.aclweb.org/anthology/C18-1053/) [excerpt](excerpts/merhav-ash-2018)
 - kanishka rao et al: *grapheme-to-phoneme conversion using long short-term memory recurrent neural networks* [link](https://ieeexplore.ieee.org/document/7178767)
 - mihaela rosca, thomas breuel: *sequence-to-sequence neural network models for transliteration* [link](https://arxiv.org/abs/1610.09565)
 - rico sennrich et al: *neural machine translation of rare words with subword units* [link](https://www.aclweb.org/anthology/P16-1162/)
