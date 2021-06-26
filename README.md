@@ -6,14 +6,15 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 #### so far we have parallel data:
 
-- 7000 records from brandeis university
-- 8000 records from the national library in israel
-- 1500 records from the hessisches bibliotheksinformationssystem [hebis](https://www.hebis.de/)
-- parallel translation and transliteration of "le petit prince" to yiddish, courtesy of the translator shlomo lerman [דער קליינער פרינץ](http://www.petit-prince.at/pp-jidd.htm)
-- 1300 names from wikidata
+- 11.000 records (titles and author names) scraped from the [yiddish book center](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
+- 8.000 records provided by the israeli [national library](https://www.nli.org.il)
+- 7.000 records provided by the [brandeis university library](https://www.brandeis.edu/library/)
 - 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
-- 300 proverbs from [yiddish wit](https://www.yiddishwit.com/List.html)
 - 2400 words from [yidlid](http://yidlid.org/), a page with lyrics for yiddish songs
+- 1500 records from the hessisches bibliotheksinformationssystem [hebis](https://www.hebis.de/)
+- 1300 names from wikidata
+- 300 proverbs from [yiddish wit](https://www.yiddishwit.com/List.html)
+- parallel translation and transliteration of "le petit prince" to yiddish, courtesy of the translator shlomo lerman [דער קליינער פרינץ](http://www.petit-prince.at/pp-jidd.htm)
 
 #### monolingual data (for pre-training a language model):
 
@@ -24,7 +25,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 ## more yiddish resources on the internet
 
 - refoyls yidish veb-bletl [link](https://www.cs.uky.edu/~raphael/yiddish.html)
-- the yiddish book center's steven spielberg digital yiddish library [link](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
+- the yiddish book center's steven spielberg digital yiddish library [link]
 - library of congress romanization rules [link](https://www.loc.gov/catdir/cpso/romanization/hebrew.pdf)
 - list of words of hebrew (לשה"ק) origin [link](https://yi.wikipedia.org/wiki/%D7%9C%D7%99%D7%A1%D7%98%D7%A2_%D7%A4%D7%95%D7%9F_%D7%9C%D7%A9%D7%95%D7%9F-%D7%A7%D7%95%D7%93%D7%A9_%D7%95%D7%95%D7%A2%D7%A8%D7%98%D7%A2%D7%A8_%D7%90%D7%99%D7%9F_%D7%99%D7%99%D7%93%D7%99%D7%A9)
 - yiddish alphabet with dialectal differences in pronunciation: [דער יידישער אלף-בית](https://tildeweb.au.dk/au132769/alefbeys.htm)
