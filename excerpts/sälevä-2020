@@ -1,0 +1,12 @@
+A Multi-Orthography Parellel Corpus of Yiddish Nouns
+Jonne Sälevä
+2020
+
+Summary
+
+The author collects and releases a parallel corpus for Yiddish nouns in the following othrographies: YIVO (with diacritics), Chasidic (without diacritics) and transliterated. The data is from Wiktionary, and is used to train three statistical ngram transliteration models. The transciption model (from Latin letters to Hebrew script) learns the Yiddish orthographies quite well but has problems with the Hebraic words in Yiddish, as well as with the final letters. The author suggests several ways for future improvements of the model: include prior knowledge about likely character transductions, look at n-best (not only top) results, look at the context to understand the context of a word. 
+
+Notes
+
+- great baseline system
+- I plan to include a pretrained monolingual language model for the target language, so at least the first idea will be addressed

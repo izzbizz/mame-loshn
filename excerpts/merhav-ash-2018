@@ -1,0 +1,13 @@
+Design Challenges in Named Entity Transliteration
+Yuval Merhav, Stephen Ash
+2018
+
+Summary
+
+The authors compare a SOTA ngram model to two neural MT architectures (RNN + Transformer) for different alphabets (English, Russian, Hebrew, Arabic). The transformer-based model beats both the other models. The datasets are relatively large (for a transliteration task) and consist of parallel named entities from Wikidata. They're fed to the system token-wise, since "pronunciation of English names does not carry context across tokens". Evaluation metric: Word Error Rate (WER) on first-, second- and third-best. In the error analysis, the authors hypothesize that incorporating a language model learned on a large (monolingual?) dataset would improve the results.
+
+Notes
+
+- reproduce table on page 4 to describe data
+- proof that transformer models improve NMTR too
+- look at 3-best, not only 1-best result
