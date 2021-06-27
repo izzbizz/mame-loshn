@@ -1,0 +1,11 @@
+Creating a High-Quality Machine Translation System for a Low-Resource Language: Yiddish
+Dmitriy Genzel, Klaus Macherey, Jakob Uszkoreit
+2009
+
+Summary
+
+The authors create a MT system for Yiddish-English under extremely dire conditions (data-wise). They experiment with augmentation techniques, such as pretraining with a Yiddish ngram language model and "bridging" via the more high-resource languages German, Hebrew, Dutch and Afrikaans, spellign correction and morphological normalization. The MT system is not described in detail. More time is spent on the data acquisition process. The results for Yiddish are worse than for the other languages which is to be expected in such an extreme low-resource setting (200K words), but according to the authors, that difference is not reflected in the BLEU scores, which leads them to question BLEU as an evaluation technique. 
+
+Notes
+
+- motivation for my system: in describing their data collection process, the authors lament that much of it is either in pdf format, thus not machine-readable, or only available in romanized form and "we cannot obtain the original Yiddish from its transliterated form".
