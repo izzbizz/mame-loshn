@@ -20,8 +20,6 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 - 28,000 articles from the [yiddish wikipedia](https://yi.wikipedia.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98)
 
-[link to dropbox folder](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F)
-
 ## more yiddish resources on the internet
 
 - refoyls yidish veb-bletl [link](https://www.cs.uky.edu/~raphael/yiddish.html)
