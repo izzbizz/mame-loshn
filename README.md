@@ -8,6 +8,7 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 - 11.000 records (titles and author names) scraped from the yiddish book center's [digital yiddish library](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
 - 8.000 records provided by the israeli [national library](https://www.nli.org.il)
+- 8.000 place names from [yiddishland](https://yivo.org/yiddishland-topo)
 - 7.000 records provided by the [brandeis university library](https://www.brandeis.edu/library/)
 - 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
 - 2400 words from [yidlid](http://yidlid.org/), a page with lyrics for yiddish songs
