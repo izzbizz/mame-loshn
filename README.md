@@ -6,21 +6,22 @@ developing a system that can back-transliterate romanized yiddish to the alef-be
 
 #### so far we have parallel data:
 
-- 11.000 records (titles and author names) scraped from the yiddish book center's [digital yiddish library](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
-- 8.000 records provided by the israeli [national library](https://www.nli.org.il)
-- 7.000 records provided by the [brandeis university library](https://www.brandeis.edu/library/)
-- 2700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
-- 2400 words from [yidlid](http://yidlid.org/), a page with lyrics for yiddish songs
-- 1500 records from the hessisches bibliotheksinformationssystem [hebis](https://www.hebis.de/)
-- 1300 names from wikidata
+- 11,000 records (titles and author names) scraped from the yiddish book center's [digital yiddish library](https://www.yiddishbookcenter.org/collections/digital-yiddish-library)
+- 10,000 words from [wiktionary](https://www.wiktionary.org/)
+- 8,000 records provided by israel's [national library](https://www.nli.org.il)
+- 8,000 place names from [yiddishland](https://yivo.org/yiddishland-topo)
+- 7,000 records provided by the [brandeis university library](https://www.brandeis.edu/library/)
+- 2,700 nouns from the [multi-orthography parallel corpus of yiddish nouns](https://codeberg.org/jonne/yiddish-lrec-2020)
+- 2,400 words from [yidlid](http://yidlid.org/), a page with lyrics for yiddish songs
+- 2,000 words from the [yiddish dictionary](http://www.yiddishdictionaryonline.com/beginner.htm)
+- 1,500 records from the hessisches bibliotheksinformationssystem [hebis](https://www.hebis.de/)
+- 1,300 names from wikidata
 - 300 proverbs from [yiddish wit](https://www.yiddishwit.com/List.html)
 - parallel translation and transliteration of "le petit prince" to yiddish, courtesy of the translator shlomo lerman [דער קליינער פרינץ](http://www.petit-prince.at/pp-jidd.htm)
 
 #### monolingual data (for pre-training a language model):
 
 - 28,000 articles from the [yiddish wikipedia](https://yi.wikipedia.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98)
-
-[link to dropbox folder](https://www.dropbox.com/home/%D7%9E%D7%90%D7%9E%D7%A2-%D7%9C%D7%A9%D7%95%D7%9F)
 
 ## more yiddish resources on the internet
 
